@@ -100,7 +100,7 @@
         android:baselineAligned="false">
 
         <EditText
-            android:id="@+id/city_edit_text"
+            android:id="@+id/word_edit_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="5"
